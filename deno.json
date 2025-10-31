@@ -1,0 +1,10 @@
+{
+  "tasks": {
+    "dev": "deno run --watch --allow-all index.ts"
+  },
+  "imports": {
+    "@nothing628/chalk": "jsr:@nothing628/chalk@^1.0.1",
+    "@std/assert": "jsr:@std/assert@1",
+    "prompts": "npm:prompts@^2.4.2"
+  }
+}
