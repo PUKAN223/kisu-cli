@@ -1,4 +1,4 @@
-import chalk from "@nothing628/chalk";
+import chalk from "jsr:@nothing628/chalk";
 import { Logger } from "./utils/Logger.ts";
 import { resolve } from "node:path";
 
