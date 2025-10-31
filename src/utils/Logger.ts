@@ -1,4 +1,4 @@
-import chalk, { ChalkObj } from "@nothing628/chalk";
+import chalk, { ChalkObj } from "jsr:@nothing628/chalk";
 import readline from "node:readline";
 import { stdin as input, stdout as output } from "node:process";
 
